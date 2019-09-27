@@ -1,4 +1,6 @@
 # Rock Paper Scissors
+Rock Paper Scissors, a Ruby program, is the classic game using Object Oriented Programming to play against the computer. <br />
+
 
 How To Play
 1. The user should enter rock, paper, or scissors 
